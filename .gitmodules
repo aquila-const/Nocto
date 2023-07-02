@@ -4,3 +4,6 @@
 [submodule "meta-tegra"]
 	path = meta-tegra
 	url = https://github.com/OE4T/meta-tegra.git
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
